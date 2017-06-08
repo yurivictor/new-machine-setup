@@ -17,6 +17,8 @@ cd ~
 ./Projects/new-machine-setup/brew.sh
 ./Projects/new-machine-setup/brew-cask.sh
 
+gpg2 --full-generate-key
+
 open https://gngrwzrd.com/dribbble-screen-saver/
 
 
